@@ -1,0 +1,20 @@
+@del /f/q/s *.o
+@del /f/q/s *.crf
+@del /f/q/s *.bak
+@del /f/q/s *.d
+@del /f/q/s *.axf
+@del /f/q/s *.iex
+@del /f/q/s *.lnp
+@del /f/q/s *.flg
+@del /f/q/s *.tra
+@del /f/q/s *.sct
+@del /f/q/s *.i
+@del /f/q/s *._ip
+@del /f/q/s *.lst
+@del /f/q/s *.map
+@del /f/q/s *.dep
+@del /f/q *.txt
+@del /f/q/s *.__i
+@del /f/q/s *.plg
+@del /f/q/s *.ini
+@pause
